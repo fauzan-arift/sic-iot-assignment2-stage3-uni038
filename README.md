@@ -15,3 +15,13 @@ pintar dalam pengelolaan pencahayaan dan pengaturan udara.
   - Fauzan Arif Tricahya
   - Wandy Chandra Wijaya
   - Yasir
+ 
+---
+ 
+## ⚙️ Spesifikasi Perangkat Keras
+
+- **AC**: Sistem ini hanya mendukung AC yang menggunakan protokol **Teknopoint**.
+- **Lampu**: Sistem ini menggunakan **motor servo** untuk mengontrol saklar lampu secara mekanis.
+- **Kamera ESP32**: Digunakan untuk streaming video melalui web server.
+
+---
