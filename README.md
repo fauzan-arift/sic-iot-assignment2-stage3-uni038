@@ -9,8 +9,8 @@ pintar dalam pengelolaan pencahayaan dan pengaturan udara.
 ## 📚 Informasi Proyek
 
 - **Nama Proyek**: SAKLAR: Smart Automated Kinetics for Lighting & Air Regulation
-- **Kode Proyek**: UNI038
-- **Tim**: INNOV8 - IPB University
+- **Kode Tim**: UNI038
+- **Nama Tim**: INNOV8 - IPB University
   - Adhiya Radhin Fasya
   - Fauzan Arif Tricahya
   - Wandy Chandra Wijaya
